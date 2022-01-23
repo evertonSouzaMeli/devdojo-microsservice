@@ -1,4 +1,4 @@
-package academy.devdojo.course.endpoint.repository;
+package academy.devdojo.core.model;
 
 import java.io.Serializable;
 

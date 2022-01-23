@@ -1,6 +1,6 @@
-package academy.devdojo.course.endpoint.repository;
+package academy.devdojo.core.repository;
 
-import academy.devdojo.course.endpoint.model.Course;
+import academy.devdojo.core.model.Course;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
